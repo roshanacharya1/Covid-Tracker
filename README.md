@@ -3,7 +3,9 @@
 A Simple Flutter application for Tracking Covid-19 cases in India and its respective states.
 
 # ScreenShots
-| ![](ScreenShots/ss1.jpg)|![](ScreenShots/ss2.jpg)|
+| Sign In Page | Register Page |
+| --- | --- |
+| ![](ScreenShots/ss1.jpg)|![](ScreenShots/ss2.jpeg)|
 
 ## Getting Started
 
