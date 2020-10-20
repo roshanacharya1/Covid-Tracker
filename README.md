@@ -1,6 +1,9 @@
 # Covid_tracker_beta
 
-A new Flutter application.
+A Simple Flutter application for Tracking Covid-19 cases in India and its respective states.
+
+# ScreenShots
+
 
 ## Getting Started
 
